@@ -1,5 +1,5 @@
 
-# Hotel Website
+# Hotel Website Using BOOTSTRAP 5
 
 This repository contains the code for a responsive and visually appealing hotel website, designed to showcase hotel features, amenities, and booking information. The website is built with modern web technologies to provide an engaging user experience.
 
