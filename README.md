@@ -12,7 +12,7 @@ This repository contains the code for a responsive and visually appealing hotel 
 
 https://tahahmadd.github.io/Hotel-website.github.io/
 
-# Features
+# __Features:__
 
 ## -Home Page:
 
@@ -47,7 +47,7 @@ Contact information, including a form for inquiries, along with a map showing th
 The website is fully responsive and adapts to different screen sizes, including mobile, tablet, and desktop.
 
 
-# Technologies Used
+# __Technologies Used:__
 
 ## HTML5: 
 The standard markup language for creating web pages.
@@ -72,7 +72,7 @@ Provides a collection of icons for use in the UI.
 
 
 
-# Run Locally
+# __Run Locally:__
 
 Clone the project
 
@@ -95,11 +95,11 @@ Open the index.html file in your web browser:
 
 ```
 
-# Contributing:
+# __Contributing:__
 
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Contributions are welcome!
 
-# Contact
+# __Contact:__
 For any inquiries or feedback, please contact:
 
 *Taha Ahmad: tahahmad@gmail.com
