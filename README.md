@@ -9,54 +9,61 @@ https://tahahmadd.github.io/Hotel-website.github.io/
 
 # Features
 
--__Home Page:__ 
+### -Home Page:
 
 A welcoming landing page with a navigation bar, a hero section with a beautiful image, and a call-to-action button for booking.
 
--__About Us:__
+### -About Us:
 
  Provides information about the hotel, its history, and its unique offerings.
 
--__Rooms:__ 
+### -Rooms:
 
 Displays the various types of rooms available, including descriptions, images, and pricing.
 
--__Amenities:__ 
+### -Amenities: 
 
 Highlights the hotel’s amenities and services, such as a swimming pool, gym, restaurant, etc.
 
--__Gallery:__ 
+### -Gallery: 
 
 A photo gallery showcasing the hotel’s interior and exterior, including rooms, common areas, and amenities.
 
--__Booking Form:__ 
+### -Booking Form: 
 
 A functional booking form that allows visitors to check room availability and make reservations.
 
--__Contact Us:__ 
+### -Contact Us: 
 
 Contact information, including a form for inquiries, along with a map showing the hotel’s location.
 
--__Responsive Design:__ 
+### -Responsive Design: 
 
 The website is fully responsive and adapts to different screen sizes, including mobile, tablet, and desktop.
 
 
 # Technologies Used
 
-__HTML5:__ The standard markup language for creating web pages.
+### HTML5: 
+The standard markup language for creating web pages.
 
-__CSS3:__ Used for styling the website, including layout, colors, and fonts.
+### CSS3: 
+Used for styling the website, including layout, colors, and fonts.
 
-__JavaScript:__ Adds interactivity and dynamic content to the website.
+### JavaScript: 
+Adds interactivity and dynamic content to the website.
 
-__Bootstrap:__ A CSS framework used for creating responsive and mobile-first designs.
+### Bootstrap: 
+A CSS framework used for creating responsive and mobile-first designs.
 
-__jQuery:__ A JavaScript library used to simplify DOM manipulation, event handling, and animations.
+### jQuery: 
+A JavaScript library used to simplify DOM manipulation, event handling, and animations.
 
-__Google Fonts:__ Used for custom typography.
+### Google Fonts: 
+Used for custom typography.
 
-__Font Awesome:__ Provides a collection of icons for use in the UI.
+### Font Awesome: 
+Provides a collection of icons for use in the UI.
 
 
 
