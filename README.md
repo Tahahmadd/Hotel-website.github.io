@@ -3,6 +3,10 @@
 
 This repository contains the code for a responsive and visually appealing hotel website, designed to showcase hotel features, amenities, and booking information. The website is built with modern web technologies to provide an engaging user experience.
 
+## Screenshots
+
+![App Screenshot](https://github.com/Tahahmadd/Hotel-website.github.io/blob/6653c869e79c9ad83a0dedd695070a596db6b5b9/Hotel-website-demo.png)
+
 ## Demo
 
 https://tahahmadd.github.io/Hotel-website.github.io/
